@@ -223,3 +223,5 @@ If your code does not compile, you will receive a zero for the assignment. If yo
 To submit your machine problem, commit and push your code to the "main" branch in your private GitHub repository shared with us. You can make as many commits and pushes as needed; we will assess the most recent version of your code pushed before the deadline.
 
 If you plan to use late submission days, remember to fill out and submit the late day form (found on the course website) before the deadline.
+#   B a t t l e S h i p G a m e - M o b i l e D e v e l o p m e n t  
+ 
