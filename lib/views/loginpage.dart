@@ -10,14 +10,14 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import '../utils/sessionmanager.dart';
 
-class App3 extends StatefulWidget {
-  const App3({super.key});
+class App extends StatefulWidget {
+  const App({super.key});
 
   @override
-  State<App3> createState() => _App3State();
+  State<App> createState() => _AppState();
 }
 
-class _App3State extends State<App3> {
+class _AppState extends State<App> {
   bool isLoggedIn = false;
   
   @override
